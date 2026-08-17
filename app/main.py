@@ -31,7 +31,7 @@ st.set_page_config(
 
 st.image(
     "assets/logo_seshat.png",
-    width=120
+    width=250
 )
 
 st.title("SESHAT — PoC v0.1")
