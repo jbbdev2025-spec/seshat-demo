@@ -29,6 +29,11 @@ st.set_page_config(
     layout="wide"
 )
 
+st.image(
+    "assets/logo_seshat.png",
+    width=120
+)
+
 st.title("SESHAT — PoC v0.1")
 st.caption("Assistant de conception et d'observation pédagogique")
 
